@@ -1,10 +1,10 @@
 # forget-pw 忘記密碼
-## /forgetpw
+## /forget-pw
 font to back
 
 | 說明 | key | value |
 | ---- | --- | ----- |
-| 驗證碼 | verification  |       |
+| 驗證碼 | verificationCode |       |
 
 
 back to font
