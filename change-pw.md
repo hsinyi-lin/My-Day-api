@@ -1,5 +1,5 @@
 # change-pw 變更密碼
-## /login
+## /change-pw
 font to back
 
 | 說明 | key | value |
