@@ -5,6 +5,7 @@ font to back
 | 說明         | key          | value |
 | ------------ | ------------ | ----- |
 | 標題         | title       |       |
+| 日期         | date       |       |
 | 開始時間     | startTime    |       |
 | 結束時間     | endTime      |       |
 | 科目         | subject      |       |
