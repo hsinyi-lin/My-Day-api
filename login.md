@@ -12,7 +12,7 @@ back to font
 | 說明     | key             | value |
 | -------- | --------------- | ----- |
 | 姓名     | name            |       |
-| 課表     | schoolTimeTable |       |
+| 課表     | schoolTimetable |       |
 | 學習計畫 | studyPlan       |       |
 | 設定     | setting         |       |
 
