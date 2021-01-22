@@ -1,4 +1,4 @@
-# get-schedule 驗證碼
+# get-schedule 取得行程
 ## /get-schedule
 font to back
 
@@ -10,7 +10,7 @@ back to font
 
 | 說明     | key       | value |
 | -------- | --------- | ----- |
-| 標題     | school    |       |
+| 標題     | title    |       |
 | 開始時間 | startTime |       |
 | 結束時間 | endTime   |       |
 | 提醒     | remind    |       |
