@@ -1,3 +1,4 @@
+###### tags: `group`
 # get-group 取得群組
 ## /get-group
 font to back
