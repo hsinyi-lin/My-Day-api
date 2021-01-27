@@ -2,9 +2,10 @@
 ## /get-group
 font to back
 
-| 說明 | key | value |
-| ---- | --- | ----- |
-| 群組編號 | groupID  |       |
+| 說明     | key     | value |
+| -------- | ------- | ----- |
+| 帳號     | id      |       |
+| 群組編號 | groupID |       |
 
 
 back to font
