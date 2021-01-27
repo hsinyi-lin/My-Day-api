@@ -1,3 +1,4 @@
+###### tags: `friend`
 # get-friend 取得好友
 ## /get-friend
 font to back
@@ -10,6 +11,6 @@ font to back
 
 back to font
 
-| 說明     | key  | value |     |
-| -------- | ---- | ----- | --- |
-| 好友姓名 | name |       |     |
+| 說明     | key  | value |
+| -------- | ---- | ----- |
+| 好友姓名 | name |       |
