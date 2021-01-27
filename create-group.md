@@ -1,3 +1,4 @@
+###### tags: `group`
 # create-group 建立群組
 ## /create-group
 font to back
