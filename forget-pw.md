@@ -1,3 +1,4 @@
+###### tags: `account`
 # forget-pw 忘記密碼
 ## /forget-pw
 font to back
