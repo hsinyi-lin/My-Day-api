@@ -1,3 +1,4 @@
+###### tags: `timetable`
 # edit-timetable 取得課表
 ## /edit-timetable
 font to back
