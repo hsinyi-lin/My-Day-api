@@ -3,9 +3,10 @@
 ## /get-studyplan
 font to back
 
-| 說明 | key | value  |
-| ---- | --- | ------ |
-| 帳號 | id  | string |
+| 說明         | key          | value  |
+| ------------ | ------------ | ------ |
+| 帳號         | id           | string |
+| 學習計畫編號 | studyplanNum | string |
 
 back to font
 
