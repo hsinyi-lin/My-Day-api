@@ -17,3 +17,7 @@ back to font
 | 學期     | semester   |       |
 | 開始日期 | startDate  |       |
 | 結束日期 | endDate    |       |
+| 課程     | subject    |       |
+| 課程開始 | startTime  |       |
+| 課程結束 | endTime    |       |
+| 星期      | week    |       |
