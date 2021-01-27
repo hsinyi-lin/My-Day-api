@@ -1,3 +1,4 @@
+###### tags: `friend`
 # group-invite-friend 群組邀請好友
 ## /group-invite-friend
 font to back
