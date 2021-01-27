@@ -1,3 +1,4 @@
+###### tags: `timetable`
 # create-timetable 建立課表
 ## /create-timetable
 font to back
