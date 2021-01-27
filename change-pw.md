@@ -1,3 +1,4 @@
+###### tags: `account`
 # change-pw 變更密碼
 ## /change-pw
 font to back
