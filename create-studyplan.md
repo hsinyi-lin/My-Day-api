@@ -1,3 +1,4 @@
+###### tags: `studyplan`
 # create-studyplan 建立讀書計畫
 ## /create-studyplan
 font to back
