@@ -1,3 +1,4 @@
+###### tags: `account`
 # send-code 驗證碼
 ## /send-code
 font to back
