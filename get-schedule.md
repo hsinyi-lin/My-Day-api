@@ -1,3 +1,4 @@
+###### tags: `schedule`
 # get-schedule 取得行程
 ## /get-schedule
 font to back
