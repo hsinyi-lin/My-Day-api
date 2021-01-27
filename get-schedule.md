@@ -3,9 +3,10 @@
 ## /get-schedule
 font to back
 
-| 說明     | key      | value |
-| -------- | -------- | ----- |
-| 行程編號 | scheduleID |       |
+| 說明     | key        | value |
+| -------- | ---------- | ----- |
+| 帳號     | id         |       |
+| 行程編號 | scheduleNum |       |
 
 back to font
 
