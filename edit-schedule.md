@@ -1,7 +1,7 @@
 ###### tags: `schedule`
 # edit-schedule 編輯行程
 ## /edit-schedule
-font to back
+front to back
 
 | 說明     | key      | value |
 | -------- | -------- | ----- |
@@ -14,8 +14,8 @@ font to back
 | 地點     | location  |       |
 | 備註     | remark    |       |
 
-back to font
+back to front
 
 | 說明         | key     | value |
 | ------------ | ------- | ----- |
-| 編輯行程結果 | request |       |
+| 編輯行程結果 | response |       |
