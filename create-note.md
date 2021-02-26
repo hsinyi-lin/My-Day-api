@@ -1,7 +1,7 @@
 ###### tags: `note`
 # create-note 建立筆記
 ## /create-note
-font to back
+front to back
 
 | 說明 | key     | value |
 | ---- | ------- | ----- |
@@ -11,8 +11,8 @@ font to back
 
 
 
-back to font
+back to front
 
 | 說明         | key     | value |
 | ------------ | ------- | ----- |
-| 建立筆記結果 | request |       |
+| 建立筆記結果 | response |       |
