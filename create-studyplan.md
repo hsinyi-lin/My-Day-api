@@ -1,7 +1,7 @@
 ###### tags: `studyplan`
 # create-studyplan 建立讀書計畫
 ## /create-studyplan
-font to back
+front to back
 
 | 說明         | key          | value |
 | ------------ | ------------ | ----- |
@@ -15,8 +15,8 @@ font to back
 | 休息         | rest         |       |
 
 
-back to font
+back to front
 
 | 說明         | key     | value |
 | ------------ | ------- | ----- |
-| 建立讀書計畫結果 | request |       |
+| 建立讀書計畫結果 | response |       |
