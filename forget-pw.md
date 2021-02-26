@@ -1,15 +1,15 @@
 ###### tags: `account`
 # forget-pw 忘記密碼
 ## /forget-pw
-font to back
+front to back
 
 | 說明 | key | value |
 | ---- | --- | ----- |
 | 驗證碼 | verificationCode |       |
 
 
-back to font
+back to front
 
 | 說明     | key             | value |
 | -------- | --------------- | ----- |
-| 驗證結果  | request         |       |
+| 驗證結果  | response         |       |
