@@ -1,14 +1,14 @@
 ###### tags: `schedule`
 # get-schedule 取得行程
 ## /get-schedule
-font to back
+front to back
 
 | 說明     | key        | value |
 | -------- | ---------- | ----- |
 | 帳號     | id         |       |
 | 行程編號 | scheduleNum |       |
 
-back to font
+back to front
 
 | 說明     | key       | value |
 | -------- | --------- | ----- |
