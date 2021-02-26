@@ -1,7 +1,7 @@
 ###### tags: `timetable`
 # edit-timetable 編輯課表
 ## /edit-timetable
-font to back
+front to back
 
 | 說明     | key       | value |
 | -------- | --------- | ----- |
@@ -10,8 +10,8 @@ font to back
 | 課程結束 | endTime   |       |
 | 星期     | week      |       |
 
-back to font
+back to front
 
 | 說明         | key     | value |
 | ------------ | ------- | ----- |
-| 編輯課表結果 | request |       |
+| 編輯課表結果 | response |       |
