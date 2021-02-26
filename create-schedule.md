@@ -1,7 +1,7 @@
 ###### tags: `schedule`
 # create-schedule 建立行程
 ## /create-schedule
-font to back
+front to back
 
 | 說明     | key       | value |
 | -------- | --------- | ----- |
@@ -14,8 +14,8 @@ font to back
 | 地點     | location  |       |
 | 備註     | remark    |       |
 
-back to font
+back to front
 
 | 說明     | key             | value |
 | -------- | --------------- | ----- |
-| 建立課表結果 | request     |       |
+| 建立課表結果 | response     |       |
