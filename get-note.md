@@ -1,7 +1,7 @@
 ###### tags: `note`
 # get-note 取得筆記
 ## /get-note
-font to back
+front to back
 
 | 說明     | key     | value |
 | -------- | ------- | ----- |
@@ -11,7 +11,7 @@ font to back
 
 
 
-back to font
+back to front
 
 | 說明 | key     | value |
 | ---- | ------- | ----- |
