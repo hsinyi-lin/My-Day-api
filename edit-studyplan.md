@@ -1,14 +1,14 @@
 ###### tags: `studyplan`
 # edit-studyplan 編輯學習計畫
 ## /edit-studyplan
-font to back
+front to back
 
 | 說明         | key         | value |
 | ------------ | ----------- | ----- |
 | 學習計畫編號 | studyplanID |       |
 
 
-back to font
+back to front
 
 | 說明         | key          | value |
 | ------------ | ------------ | ----- |
