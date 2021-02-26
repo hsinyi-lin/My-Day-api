@@ -12,4 +12,4 @@ font to back
 back to font
 | 說明     | key     | value |
 | -------- | ------- | ----- |
-| 註冊結果 | request |       |
+| 註冊結果 | response |       |
