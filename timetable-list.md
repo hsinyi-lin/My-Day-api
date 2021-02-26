@@ -1,14 +1,14 @@
 ###### tags: `timetable`
 # timetable-list 課表列表
 ## /timetable-list
-font to back
+front to back
 
 | 說明 | key      | value |
 | ---- | -------- | ----- |
 | 帳號 | id       |       |
 
 
-back to font
+back to front
 
 | 說明     | key        | value |
 | -------- | ---------- | ----- |
