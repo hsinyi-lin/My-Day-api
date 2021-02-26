@@ -1,7 +1,7 @@
 ###### tags: `note`
 # note-list 筆記列表
 ## /note-list
-font to back
+front to back
 
 | 說明 | key | value |
 | ---- | --- | ----- |
@@ -9,7 +9,7 @@ font to back
 
 
 
-back to font
+back to front
 
 | 說明 | key   | value |
 | ---- | ----- | ----- |
