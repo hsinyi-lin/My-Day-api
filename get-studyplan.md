@@ -1,25 +1,36 @@
 ###### tags: `studyplan`
-# get-studyplan 取得學習計畫
+# get-studyplan 取得讀書計畫
 ## /get-studyplan
 front to back
 
 | 說明         | key          | value  |
 | ------------ | ------------ | ------ |
-| 帳號         | id           | string |
-| 學習計畫編號 | studyplanNum | string |
+| 帳號         | uid          | string |
+| 讀書計畫編號 | studyplanNum | int    |
 
 back to front
 
-| 說明             | key     | value |
-| ---------------- | ------- | ----- |
-| 標題         | title       |       |
-| 日期         | date       |       |
-| 開始時間     | startTime    |       |
-| 結束時間     | endTime      |       |
-| 科目         | subject      |       |
-| 科目開始時間 | subjectStart |       |
-| 科目結束時間 | subjectEnd   |       |
-| 休息         | rest         |       |
+| 說明         | key          | value    |
+| ------------ | ------------ | -------- |
+| 標題         | title        | string   |
+| 日期         | date         | datetime |
+| 開始時間     | startTime    | datetime |
+| 結束時間     | endTime      | datetime |
+| 科目         | subject      | object   |
 
+
+| 科目{}       |              |          |
+| ------------ | ------------ | -------- |
+| 科目名稱     | subjectName  | string   |
+| 科目開始時間 | subjectStart | datetime |
+| 科目結束時間 | subjectEnd   | datetime |
+| 休息         | rest         | bool     |
+
+---
+uid:
+ >account>user_id
+
+studyplanNum:
+ >study_plan>serial_no
 
 
