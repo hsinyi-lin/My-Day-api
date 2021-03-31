@@ -1,22 +1,30 @@
 ###### tags: `account`
 # login 登入
 ## /login
-font to back
+front to back
 
-| 說明 | key | value  |
-| ---- | --- | ------ |
-| 密碼 | pw  | string |
-| 帳號 | id  | string |
+| 說明 | key      | value  |
+| ---- | -------- | ------ |
+| 帳號 | uid       | string |
+| 密碼 | password | string |
 
-back to font
 
-| 說明     | key             | value  |
-| -------- | --------------- | ------ |
-| 姓名     | name            | string |
-| 課表     | schoolTimetable | object |
-| 學習計畫 | studyPlan       | object |
-| 設定     | setting         | object |
+back to front
 
+| 說明 | key      | value  |
+| ---- | -------- | ------ |
+| 姓名 | userName | string |
+
+
+### <font color=red> **注意**  </font>
+login 呼叫 行程、課表、學習計畫、設定
+
+---
+uid:
+ >account>user_id
+
+password:
+ >account>password  
 
 ---
 
