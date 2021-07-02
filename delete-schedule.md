@@ -1,6 +1,6 @@
 ###### tags: `schedule`
 # delete-schedule 刪除行程
-## /delete-schedule
+## /schedule/delete/
 front to back
 
 | 說明     | key         | value  |
