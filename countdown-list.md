@@ -1,18 +1,17 @@
 ###### tags: `schedule`
 # countdown-list 倒數列表
-## /countdown-list
+## /schedule/countdown_list/
 front to back
 
 | 說明     | key         | value  |
 | -------- | ----------- | ------ |
 | 帳號     | uid          | string |
-| 行程編號 | scheduleNum | int    |
 
 back to front
 
 | 說明         | key      | value |
 | ------------ | -------- | ----- |
-| 行程 | scheduleNum | object  |
+| 行程 | schedule | object  |
 
 
 | 行程{}   |               |        |
