@@ -1,6 +1,6 @@
 ###### tags: `schedule`
 # common-schedule-hidden 隱藏共同行程設定
-## /common-schedule-hidden
+## /schedule/common_hidden/
 front to back
 
 | 說明     | key         | value  |
