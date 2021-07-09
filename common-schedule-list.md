@@ -1,6 +1,6 @@
 ###### tags: `schedule`
 # common-schedule-list 共同行程列表
-## /common_list
+## /schedule/common_list/
 front to back
 
 | 說明     | key     | value  |
