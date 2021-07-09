@@ -1,6 +1,6 @@
 ###### tags: `schedule`
 # create-common-schedule 建立共同行程
-## /create_common
+## /schedule/create_common/
 front to back
 
 | 說明     | key       | value    |
