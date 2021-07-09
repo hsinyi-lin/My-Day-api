@@ -1,6 +1,6 @@
 ###### tags: `schedule`
 # edit-schedule 編輯行程
-## /schedule/edit
+## /schedule/edit/
 front to back
 
 | 說明     | key         | value    |
