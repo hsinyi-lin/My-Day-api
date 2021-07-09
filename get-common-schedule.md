@@ -1,6 +1,6 @@
 ###### tags: `schedule`
 # get-common-schedule 取得共同行程
-## /get-common-schedule
+## /schedule/get_common/
 front to back
 
 | 說明     | key         | value  |
