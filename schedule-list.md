@@ -1,6 +1,6 @@
 ###### tags: `schedule`
 # schedule-list 行程列表
-## /schedule-list
+## /schedule/get_list/
 front to back
 
 | 說明     | key         | value  |
