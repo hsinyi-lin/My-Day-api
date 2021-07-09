@@ -1,6 +1,6 @@
 ###### tags: `schedule`
 # get-schedule 取得行程
-## /get-schedule
+## /schedule/get/
 front to back
 
 | 說明     | key         | value  |
